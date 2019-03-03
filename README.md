@@ -2,7 +2,7 @@
 
 Base Url--https://form420.000webhostapp.com/
 
-
+<pre>
 1. Login API:
 End Point:
 Login
@@ -90,6 +90,8 @@ For Success:
 For Failure:
 “status”:0
 " status_message ": “Employee Deletion Failed”
+
+
 6.Update API:
 End Point:
 update
@@ -109,3 +111,4 @@ For Success:
 For Failure:
 “status”:0
 " status_message ": “Employee Updation Failed”
+</pre>
